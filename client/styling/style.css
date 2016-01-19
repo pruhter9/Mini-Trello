@@ -1,0 +1,19 @@
+.error {
+	color: red;
+}
+.navbar-default {
+	background-color: #55585d;
+}
+.navbar {
+	border-radius: 0px;
+	border-bottom: 2px solid #494e54;
+}
+.navbar-default .navbar-brand {
+	color: white;
+}
+.navbar-default:hover .navbar-brand:hover {
+	color: white;
+}
+.logout {
+	color: ;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Trello_app",
+  "description": "Imitation of Trello application",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.13.3",
+    "express": "~4.10.0",
+    "mongoose": "^4.1.1",
+    "socket.io": "^1.3.6"
+  }
+}
